@@ -1,0 +1,159 @@
+
+/* Caja principal */
+.caja{
+    height: 40em;
+    width: 40em;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: black solid 0.01em;
+}
+
+
+.cajaUp{
+    height: 20em;
+    width: 40em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+.cajaUpLeft{
+    height: 20em;
+    width: 20em;
+    border-right: black solid 0.2em;
+    background-color: black;
+}
+
+.cajaUpRight{
+    height: 20em;
+    width: 20em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cajaPequeUR1{
+    height: 10em;
+    width: 20em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.cajaPequeUR2{
+    height: 10em;
+    width: 20em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.cajaMiniUR1{
+    height: 10em;
+    width: 10em;        
+    
+}
+
+.cajaMiniUR2{
+    height: 10em;
+    width: 10em;
+    background-color: black;
+    
+}
+
+.cajaMiniUR3{
+    height: 10em;
+    width: 10em;
+    background-color: black;
+    
+}
+.cajaMiniUR4{
+    height: 10em;
+    width: 10em;    
+    
+}
+
+
+
+.cajaDown{
+    height: 20em;
+    width: 40em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.cajaDownLeft{
+    height: 20em;
+    width: 20em;
+    
+}
+
+.cajaDownRight{
+    height: 20em;
+    width: 20em;
+    
+}
+
+.cajaPequeDL1{
+    height: 10em;
+    width: 20em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.cajaPequeDL2{
+    height: 10em;
+    width: 20em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.cajaMiniDL1{
+    height: 10em;
+    width: 10em;
+    background-color: black;   
+}
+
+.cajaMiniDL2{
+    height: 10em;
+    width: 10em;    
+}
+
+.cajaMiniDL3{
+    height: 10em;
+    width: 10em;    
+}
+
+.cajaMiniDL4{
+    height: 10em;
+    width: 10em;
+    background-color: black;
+    
+}
+
+.cajaPequeDR1{
+    height: 10em;
+    width: 20em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border: black solid 0.01em;
+    
+}
+
+.cajaPequeDR2{
+    height: 10em;
+    width: 20em;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
